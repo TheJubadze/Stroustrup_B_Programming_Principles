@@ -1,0 +1,3 @@
+[submodule "stroustrup-ppp"]
+	path = stroustrup-ppp
+	url = https://github.com/Chrinkus/stroustrup-ppp.git
